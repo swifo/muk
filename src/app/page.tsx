@@ -10,7 +10,7 @@ export default function Home() {
       <img src="/muk_banner.jpg" className="w-[754px] m-auto mt-4" alt="" />
       <div className="flex flex-col items-center">
         <h4 className="text-[#3D7CC1] sm:text-4xl text-3xl font-semibold text-center mt-16">
-          Hello, I’m Falak Sher
+          Hello, I’m Muhammad Khaleeque,
         </h4>
         <h1 className="sm:text-[64px] text-5xl text-center sm:leading-16 font-semibold lg:w-[1024px] m-auto mt-5">
           I build digital products, brands, stores and business trust
@@ -35,7 +35,7 @@ export default function Home() {
             Bringing ideas to life with strategic design.{" "}
           </p>
           <p className="text-center mt-4">
-            Falak Sher is a creative professional specializing in product
+            Muhammad Khaleequ is a creative professional specializing in product
             design, packaging design, and book marketing design, helping brands
             stand out with compelling visuals. Beyond design, We assist
             businesses with store setup, Trustpilot account setup, and review
@@ -89,7 +89,7 @@ export default function Home() {
           Contact for your projects on
         </p>
         <p className="tablet:text-5xl phone:text-3xl text-xl font-semibold mt-2">
-          yawal7460@gmail.com
+          payoneerbwp@gmail.com
         </p>
       </footer>
     </main>
