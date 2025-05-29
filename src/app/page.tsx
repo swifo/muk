@@ -6,20 +6,21 @@ import { BsArrowUpRight } from "react-icons/bs";
 export default function Home() {
   return (
     <main className="">
-      <img src="/muk_logo.svg" alt="" className="m-auto mt-16" />
+      <img src="/f_logo.png" alt="" className="m-auto h-28 mt-16" />
       <img src="/muk_banner.jpg" className="w-[754px] m-auto mt-4" alt="" />
       <div className="flex flex-col items-center">
         <h4 className="text-[#3D7CC1] sm:text-4xl text-3xl font-semibold text-center mt-16">
-          Hello, I’m Annielyn Gilo.
+          Hello, I’m Falak Sher
         </h4>
         <h1 className="sm:text-[64px] text-5xl text-center sm:leading-16 font-semibold lg:w-[1024px] m-auto mt-5">
           I build digital products, brands, stores and business trust
         </h1>
 
         <Link
-          href={
-            "https://www.fiverr.com/anjanetteaprid?source=gig_page&gigs=slug%3Ado-a-product-listing-for-you%2Cpckg_id%3A1&ref=seller_location%3APH"
-          }
+          // href={
+          //   "https://www.fiverr.com/anjanetteaprid?source=gig_page&gigs=slug%3Ado-a-product-listing-for-you%2Cpckg_id%3A1&ref=seller_location%3APH"
+          // }
+          href={""}
           target="_blank"
           className="w-auto flex items-center gap-5 m-auto py-1 px-7 mt-6 bg-[#67A5B4] font-semibold rounded-full text-[#F5F5F5]"
         >
@@ -34,12 +35,12 @@ export default function Home() {
             Bringing ideas to life with strategic design.{" "}
           </p>
           <p className="text-center mt-4">
-            Annielyn (Muk Agency) is a creative professional specializing in
-            product design, packaging design, and book marketing design, helping
-            brands stand out with compelling visuals. Beyond design, We assist
+            Falak Sher is a creative professional specializing in product
+            design, packaging design, and book marketing design, helping brands
+            stand out with compelling visuals. Beyond design, We assist
             businesses with store setup, Trustpilot account setup, and review
             management, ensuring a seamless customer experience and strong brand
-            credibility.{" "}
+            credibility.
           </p>
           <p className="text-center mt-6">
             Whether launching a new product or enhancing your online presence,
@@ -88,7 +89,7 @@ export default function Home() {
           Contact for your projects on
         </p>
         <p className="tablet:text-5xl phone:text-3xl text-xl font-semibold mt-2">
-          anneaguilar0910@gmail.com
+          yawal7460@gmail.com
         </p>
       </footer>
     </main>
