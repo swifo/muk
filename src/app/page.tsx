@@ -10,7 +10,7 @@ export default function Home() {
       <img src="/banner.jpg" className="w-[754px] m-auto mt-4" alt="" />
       <div className="flex flex-col items-center">
         <h4 className="text-[#3D7CC1] sm:text-4xl text-3xl font-semibold text-center mt-16">
-          Hello, I’m Falak Shear,
+          Hello, I’m Falak Sher,
         </h4>
         <h1 className="sm:text-[64px] text-5xl text-center sm:leading-16 font-semibold lg:w-[1024px] m-auto mt-5">
           A web developer crafting fast, responsive, and user-friendly websites.
